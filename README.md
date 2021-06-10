@@ -3,7 +3,7 @@ A small script to get top 100 coins info
 
 
 
-`
+```
 usage: ICoin.py [-h] [-n N] [-r R]
 
 optional arguments:
@@ -11,4 +11,4 @@ optional arguments:
   -n N        Show first n coins
   -r R        raw csv file to current folder
 
-`
+```
